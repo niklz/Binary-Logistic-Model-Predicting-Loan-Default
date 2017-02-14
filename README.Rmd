@@ -29,7 +29,6 @@ library(Information)
 
 # Configurations and convenience functions
 source("create_summary_EN.R")
-#source("configuration.R")
 source("convFunc.R")
 
 ```
